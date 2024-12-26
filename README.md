@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain,Ethereum.**
 
-- 💬 Ask me about **Highly motivated and detail-oriented developer with a strong foundation in building scalable and efficient web applications. Proficient in React, Node.js, Express.js, and MongoDB, with a keen interest in learning and exploring new technologies.**
+- 💬About Me **Highly motivated and detail-oriented developer with a strong foundation in building scalable and efficient web applications. Proficient in React, Node.js, Express.js, and MongoDB, with a keen interest in learning and exploring new technologies.**
 
 - 📫 How to reach me **5unni4plr@gmail.com**
 
