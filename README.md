@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm ANJU B PRAKASH</h1>
-<h3 align="center">A passionate MERN stalk developer from Kerala,India</h3>
+# 👋 Hi, I'm Anju B Prakash
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=an9644&label=Profile%20views&color=cb76ea&style=flat" alt="an9644" /> </p>
+A passionate Full Stack Developer from Kerala, India, specializing in the MERN stack and exploring the world of blockchain development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an9644" alt="an9644" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Blockchain,Ethereum.**
-
-- 💬About Me **Highly motivated and detail-oriented developer with a strong foundation in building scalable and efficient web applications. Proficient in React, Node.js, Express.js, and MongoDB, with a keen interest in learning and exploring new technologies.**
-
-- 📫 How to reach me **5unni4plr@gmail.com**
-
-- 📄 Know about my experiences [Fresher](Fresher)
+- 🎓 Bachelor's in Computer Applications (BCA)  
+- 🌐 Proficient in **MongoDB, Express.js, React.js, Node.js**  
+- 🔗 Currently diving into **Blockchain** and **Ethereum** technologies  
+- 🛠️ Building scalable and efficient web applications  
+- 📫 Reach me at: [5unni4plr@gmail.com](mailto:5unni4plr@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anju-b-prakash-41ba9b316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anju-b-prakash-41ba9b316/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjubprakash/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anju-b-prakash-41ba9b316/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
