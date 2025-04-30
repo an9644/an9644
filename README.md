@@ -1,19 +1,16 @@
 # 👋 Hi, I'm Anju B Prakash
 
-A passionate Full Stack Developer from Kerala, India, specializing in the MERN stack and exploring the world of blockchain development.
+**Full Stack Developer | Blockchain Developer**
 
-## 🚀 About Me
+🔗 I'm passionate about building decentralized and scalable web applications.  
+🎓 I hold a Bachelor's in Computer Applications and a **PG Diploma in Blockchain Technology**.  
+🧠 Currently learning **private blockchain networks** like **Hyperledger Fabric**.  
+🌱 Always eager to explore new tools in Web3 and full-stack development.
 
-- 🎓 Bachelor's in Computer Applications (BCA)  
-- 🌐 Proficient in **MongoDB, Express.js, React.js, Node.js**  
-- 🔗 Currently diving into **Blockchain** and **Ethereum** technologies  
-- 🛠️ Building scalable and efficient web applications  
-- 📫 Reach me at: [5unni4plr@gmail.com](mailto:5unni4plr@gmail.com)
+## 📬 Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-5unni4plr@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5unni4plr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anju%20B%20Prakash-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anju-b-prakash-41ba9b316/)
 
-## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/anju-b-prakash-41ba9b316/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
 ---
 
