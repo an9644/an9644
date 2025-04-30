@@ -2,10 +2,10 @@
 
 **Full Stack Developer | Blockchain Developer**
 
-🔗 I'm passionate about building decentralized and scalable web applications.  
-🎓 I hold a Bachelor's in Computer Applications and a **PG Diploma in Blockchain Technology**.  
-🧠 Currently learning **private blockchain networks** like **Hyperledger Fabric**.  
-🌱 Always eager to explore new tools in Web3 and full-stack development.
+- 🔗 I'm passionate about building decentralized and scalable web applications.  
+- 🎓 I hold a Bachelor's in Computer Applications and a **PG Diploma in Blockchain Technology**.  
+- 🧠 Currently learning **private blockchain networks** like **Hyperledger Fabric**.  
+- 🌱 Always eager to explore new tools in Web3 and full-stack development.
 
 
 ## 📬 Contact Me
