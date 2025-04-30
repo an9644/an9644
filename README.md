@@ -9,11 +9,10 @@
 
 
 ## 📬 Contact Me
-<a href="https://www.linkedin.com/in/anju-b-prakash-41ba9b316/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30">](mailto:5unni4plr@gmail.com) [Gmail](mailto:5unni4plr@gmail.com)  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30">](mailto:5unni4plr@gmail.com) Gmail
+
+[[Gmail](mailto:5unni4plr@gmail.com)  
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">](https://www.linkedin.com/in/anju-b-prakash-41ba9b316/) [LinkedIn](https://www.linkedin.com/in/anju-b-prakash-41ba9b316/)
 
 
