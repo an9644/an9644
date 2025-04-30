@@ -8,7 +8,7 @@
 🌱 Always eager to explore new tools in Web3 and full-stack development.
 
 ## 📬 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-5unni4plr@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5unni4plr@gmail.com)
+- [![Gmail] (https://img.shields.io/badge/Gmail-5unni4plr@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5unni4plr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anju%20B%20Prakash-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anju-b-prakash-41ba9b316/)
 
 
